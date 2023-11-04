@@ -35,7 +35,7 @@ npm run test
 npm run test:e2e
 ```
 
-## Fronted Project
+## Frontend Project
 
 ### Install
 ```
