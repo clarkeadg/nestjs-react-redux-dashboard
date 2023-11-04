@@ -1,4 +1,4 @@
-# Code Test
+# Nest.js React Redux Dashboard
 This was made using Node.js version: 18.14.2
 
 ## Backend Project
