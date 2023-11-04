@@ -11,7 +11,7 @@ npm install
 
 ### Setup ENV file
 - Copy the file example.env to .env
-- Change settings for DB connection, jwt secet, and initial user login
+- Change settings for DB connection, jwt secret, and initial user login
 
 ### Setup Database
 - Run this command to migrate the database
